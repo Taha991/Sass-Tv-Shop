@@ -1,0 +1,22 @@
+what i lerned 
+@content 
+@box-sizing
+@some of npm 
+srcset=
+sizes=
+:not(:last-child)
+class^=
+ -webkit-background-clip: text;
+skewX
+outline-offset
+ perspective
+ background-blend-mode
+box-decoration-break
+figure
+figcaption
+ backface-visibility: hidden;
+ 
+----
+what i want to lern creat npm file for live sass
+
+input::placeholder-shown 
